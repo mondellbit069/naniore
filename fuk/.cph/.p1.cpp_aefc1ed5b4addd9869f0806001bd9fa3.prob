@@ -1,0 +1,1 @@
+{"name":"Local: p1","url":"/workspaces/MonDellBit/fuk/p1.cpp","tests":[{"id":1671898377164,"input":"4\n0\n4\n127\n47859621","output":"1\n4\n1\n4096"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/MonDellBit/fuk/p1.cpp","group":"local","local":true}
