@@ -1,0 +1,1 @@
+{"name":"Local: BAI03","url":"/workspaces/MonDellBit/ANGIANG2021/BAI03.py","tests":[{"id":1672298150001,"input":"1\n1","output":"2\n0\n1\n1"},{"id":1672298333677,"input":"69\n727","output":"796\n-658\n50163\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/MonDellBit/ANGIANG2021/BAI03.py","group":"local","local":true}

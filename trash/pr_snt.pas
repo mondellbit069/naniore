@@ -1,5 +1,6 @@
 var n,m:longint;
-function KTNT(n:longint):boolean;
+function KTNT(n:longint):boolean
+/
 var i:longint;
 begin
     if n < 2 then exit(false);
@@ -17,8 +18,6 @@ begin
 end;
 
 begin
-   assign(input,'pr_snt.inp');reset(input);
-   assign(output,'pr_snt.out');rewrite(output);
    read(n);
     m:=n;
     write(n,'=');

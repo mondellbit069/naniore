@@ -1,0 +1,1 @@
+{"name":"Local: P2","url":"/workspaces/MonDellBit/GOODBYE2022/P2.py","tests":[{"id":1672414336951,"input":"3\n5 3\n5 1\n6 6","output":"5 1 2 3 4\n1 2 3 4 5\n3 2 4 1 6 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/MonDellBit/GOODBYE2022/P2.py","group":"local","local":true}
